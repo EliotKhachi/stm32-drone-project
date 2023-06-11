@@ -1,0 +1,10 @@
+../Core/Src/main.c:72:19:MPU6050_Read_Accel	48	static
+../Core/Src/main.c:91:19:MPU6050_Read_Gyro	56	static
+../Core/Src/main.c:110:19:MPU6050_Read_Temp	40	static
+../Core/Src/main.c:124:19:MPU6050_Init	32	static
+../Core/Src/main.c:148:6:calibrate_MPU6050	56	static
+../Core/Src/main.c:182:5:main	136	static
+../Core/Src/main.c:254:6:SystemClock_Config	96	static
+../Core/Src/main.c:304:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:359:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:399:6:Error_Handler	4	static,ignoring_inline_asm
