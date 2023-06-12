@@ -4,7 +4,7 @@ main.c:110:19:MPU6050_Read_Temp	2
 main.c:124:19:MPU6050_Init	5
 main.c:148:6:calibrate_MPU6050	9
 main.c:182:5:main	3
-main.c:254:6:SystemClock_Config	4
-main.c:304:13:MX_I2C1_Init	4
-main.c:359:13:MX_GPIO_Init	1
-main.c:399:6:Error_Handler	1
+main.c:251:6:SystemClock_Config	4
+main.c:301:13:MX_I2C1_Init	4
+main.c:356:13:MX_GPIO_Init	1
+main.c:396:6:Error_Handler	1
